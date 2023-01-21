@@ -1,0 +1,16 @@
+footer {
+  height: cm;
+}
+.form-outline {
+  margin: 0;
+}
+header {
+  background-image: url("JESS.png");
+  width: 100%;
+  background-size: cover;
+  background-position: cover;
+}
+
+.jumbotron {
+  background-color: rgba(255, 255, 255, 0.7);
+}
